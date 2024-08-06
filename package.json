@@ -1,0 +1,33 @@
+{
+  "name": "wd18411_nodejs",
+  "version": "1.0.0",
+  "description": "project of wd18411",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/thaivm-0609/wd18311_nodejs.git"
+  },
+  "author": "thaivm2",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thaivm-0609/wd18311_nodejs/issues"
+  },
+  "homepage": "https://github.com/thaivm-0609/wd18311_nodejs#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.2",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "express-validator": "^7.1.0",
+    "joi": "^17.13.3",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.5.1",
+    "multer": "^1.4.5-lts.1",
+    "mysql": "^2.18.1"
+  }
+}
